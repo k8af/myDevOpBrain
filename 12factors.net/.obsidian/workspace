@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "ab25d638fa425e38",
+    "type": "split",
+    "children": [
+      {
+        "id": "b43c65330ea95703",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DevOpsValues/1. Codebase.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64ca5f7aa073ca24",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2fe8038e9e064d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f5f5bc49b55cf3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e10ec8c63cc53da2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6fc893b45d6566a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7d0e468d5dd4ef8",
+    "type": "split",
+    "children": [
+      {
+        "id": "829ee4ebd70d0ea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4497735d9963b87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DevOpsValues/1. Codebase.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b5e3e1f0834020f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0bd20bad1166fef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dad0456c0e261eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b43c65330ea95703",
+  "lastOpenFiles": [
+    "1. Codebase.md",
+    "VCS/Version control system.md",
+    "version control system.md",
+    "Unbennant.md",
+    "Unbennant 1.md",
+    "Versioning.md",
+    "Codebase.md"
+  ]
+}

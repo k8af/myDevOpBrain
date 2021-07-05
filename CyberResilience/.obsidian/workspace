@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "5a3ea0729d41646e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8da313f8fee5f08",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "etablio.solutions/Comfortable.Network/Aurynn Shaw/The Particular Finest.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d1654147afeba02",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e54031058226b48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "559dae0659792b05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5ddb2edb4df910d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46ca94d6352443dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "13ad60627d78ea30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aded38fa7fc92e05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "etablio.solutions/Comfortable.Network/Aurynn Shaw/The Particular Finest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d8da313f8fee5f08",
+  "lastOpenFiles": [
+    "etablio.solutions/Comfortable.Network/Aurynn Shaw/Unbennant.md",
+    "Emotional Intelligence/Dealing with difficult people/Unbennant.md",
+    "Emotional Intelligence/Dealing with difficult people/How to Deal with a Passive-Agressive Colleague.md",
+    "Emotional Intelligence/Dealing with difficult people/How to Deal with a Mean Colleague.md",
+    "Emotional Intelligence/Dealing with difficult people/To Resolve  a Conflict, First Decide Is it Hot or Cold?.md",
+    "Emotional Intelligence/Dealing with difficult people/Taking the Stress Out of Stressful Conversations.md",
+    "etablio.solutions/Comfortable.Network/VCS/Version control system.md",
+    "etablio.solutions/Comfortable.Network/DevOpsValues/1. Codebase.md",
+    "etablio.solutions/Comfortable.Network/DevOpsValues/12. Admin processes.md",
+    "etablio.solutions/Comfortable.Network/DevOpsValues/11. Logs.md"
+  ]
+}
