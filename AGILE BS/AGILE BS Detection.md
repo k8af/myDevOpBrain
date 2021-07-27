@@ -1,4 +1,4 @@
-# Agile Bullshit Detection
+# Hyperagile Renewal
 ## Failure Stories
 How to reduce the burndown of financial resources in #DevOps #Container #Projects
 [The US Department of Defense on How to Detect #agile BS] (https://thenewstack.io/the-u-s-department-of-defense-on-how-to-detect-agile-bs)
@@ -10,11 +10,5 @@ The Defense Department’s “Office of Prepublication and Security Review” ha
 Try to spot #projects “that are simply #waterfall or #spiral #development in #agile clothing.” 
 One attempted #hybrid of #Waterfall and #Agile #development has been dubbed “water-Scrum-fall,” but the document warns against #imposters trying to claim this is #agile #development, using the sardonic moniker “agile-scrum-fall”.
 
-### How to #identify six signs that a project isn’t really using an #agile #development #methodology
-- lack of collaboration with end users
-*“missing-in-action throughout development.”*
-- no Prototypes for testing with users
-- loss of feedback. 
-*“At a minimum, they should be present during Release Planning and User Acceptance Testing.”*
- 
+
  
